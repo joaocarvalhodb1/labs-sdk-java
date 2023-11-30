@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <include resource="org/springframework/boot/logging/logback/base.xml" />
+
+    <turboFilter class="ch.qos.logback.classic.turbo.DynamicThresholdFilter">
+        <Key>dynamicThresholdKey</Key>
+        <DefaultThreshold>DEBUG</DefaultThreshold>
+        <MDCValueLevelPair>TRACE=TRACE, DEBUG=DEBUG, INFO=INFO, WARN=WARN, ERROR=ERROR</MDCValueLevelPair>
+    </turboFilter>
+
+</configuration>

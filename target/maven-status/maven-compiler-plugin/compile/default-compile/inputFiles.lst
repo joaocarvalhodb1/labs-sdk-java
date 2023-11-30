@@ -1,0 +1,9 @@
+/home/joao.carvalho@db1.com.br/db1labs/ads-java-monorepo/labs-sdk-java/src/main/java/br/com/labs/labssdkjava/exceptionhandler/EntityInUseException.java
+/home/joao.carvalho@db1.com.br/db1labs/ads-java-monorepo/labs-sdk-java/src/main/java/br/com/labs/labssdkjava/exceptionhandler/ApiMessage.java
+/home/joao.carvalho@db1.com.br/db1labs/ads-java-monorepo/labs-sdk-java/src/main/java/br/com/labs/labssdkjava/exceptionhandler/BusinessException.java
+/home/joao.carvalho@db1.com.br/db1labs/ads-java-monorepo/labs-sdk-java/src/main/java/br/com/labs/labssdkjava/exceptionhandler/ApiExceptionHandler.java
+/home/joao.carvalho@db1.com.br/db1labs/ads-java-monorepo/labs-sdk-java/src/main/java/br/com/labs/labssdkjava/exceptionhandler/EntityNotFound.java
+/home/joao.carvalho@db1.com.br/db1labs/ads-java-monorepo/labs-sdk-java/src/main/java/br/com/labs/labssdkjava/exceptionhandler/ApiError.java
+/home/joao.carvalho@db1.com.br/db1labs/ads-java-monorepo/labs-sdk-java/src/main/java/br/com/labs/labssdkjava/logging/LogContext.java
+/home/joao.carvalho@db1.com.br/db1labs/ads-java-monorepo/labs-sdk-java/src/main/java/br/com/labs/labssdkjava/logging/Logging.java
+/home/joao.carvalho@db1.com.br/db1labs/ads-java-monorepo/labs-sdk-java/src/main/java/br/com/labs/labssdkjava/logging/LogEntry.java
